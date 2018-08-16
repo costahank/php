@@ -1,5 +1,7 @@
 <?php
 
-echo "ola inferno;
+echo "ola inferno";
+
+echo "cade meu salario";
 
 ?>
